@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.6" start="node4" apprev="17950">
+  <panorama id="node4">
+    <input levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1500" leveltilesize="510" overlap="1" levelbias="0.400" levelingpitch="0" width="1500" levelbiashidpi="1.000">
+      <level height="1500" width="1500" preload="0" predecode="0"/>
+      <level height="750" width="750" preload="0" predecode="0"/>
+      <level height="375" width="375" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-142.51" tilt="-0.57" projection="4" fov="60"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fovfisheye="360" fov="60" fovstereographic="270"/>
+    </view>
+    <userdata comment="" nodeid="node4" latitude="" title="" tags="elementos" heading="0" author="" datetime="" description="" source="" customnodeid="" info="" copyright="" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" borderradius="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1" textalpha="1" bordercolor="0x000000" width="180" border="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot target="-39.6/1.1/60.0" customimage="media/hospot 2.png" distance3D="165.736" pan="-7.52" tilt="-2.6" title="SALA JUEGOS" customimageheight="29" description="" skinid="ht_node" url="{node2}" customimagewidth="29" id="Point01" use3D="0" fov="10"/>
+      <hotspot target="" customimage="media/BANDERA SALA JUEGOS.png" distance3D="380.575" pan="-7.37" tilt="2.67" title="" customimageheight="59" description="Gracias a nuestras zonas comunes revolucionamos este concepto y nos diferenciamos por dotarlas de gran protagonimso en nuestras residenciales." skinid="ht_info" url="" customimagewidth="80" id="Point02" use3D="1" fov="12"/>
+      <hotspot target="88.6/-2.0/60.0" customimage="media/hospot 2.png" distance3D="165.736" pan="-260.17" tilt="-2.36" title="TERRAZA LOUNGE" customimageheight="29" description="" skinid="ht_node" url="{node6}" customimagewidth="29" id="Point01" use3D="0" fov="10"/>
+      <hotspot target="" customimage="media/BANDERA TERRAZA LOUNGE.png" distance3D="4062.63" pan="-260.05" tilt="2.89" title="" customimageheight="626" description="Gracias a nuestras zonas comunes revolucionamos este concepto y nos diferenciamos por dotarlas de gran protagonimso en nuestras residenciales." skinid="ht_info" url="" customimagewidth="854" id="Point02" use3D="1" fov="12"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendcolor="0x000000" zoomin="6" zoomoutpause="0" zoomspeed="2" zoomout="2" type="crossdissolve" blendtime="1" zoomfov="25"/>
+    <autorotate enabled="1" delay="5.00" noderandom="1" nodefilter="" startloaded="0" nodedelay="0.00" returntohorizon="0.000" speed="0.050" useanimation="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1500" leveltilesize="510" overlap="1" levelbias="0.400" levelingpitch="0" width="1500" levelbiashidpi="1.000">
+      <level height="1500" width="1500" preload="0" predecode="0"/>
+      <level height="750" width="750" preload="0" predecode="0"/>
+      <level height="375" width="375" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fovfisheye="360" fov="60" fovstereographic="270"/>
+    </view>
+    <userdata comment="" nodeid="node2" latitude="" title="" tags="elementos" heading="0" author="" datetime="" description="" source="" customnodeid="" info="" copyright="" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" borderradius="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1" textalpha="1" bordercolor="0x000000" width="180" border="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot target="-139.9/-6.4/60.0" customimage="media/hospot 2.png" distance3D="165.736" pan="-111.38" tilt="0.49" title="TERRAZA LOUNGE" customimageheight="29" description="" skinid="ht_node" url="{node4}" customimagewidth="29" id="Point01" use3D="0" fov="10"/>
+      <hotspot target="" customimage="media/BANDERA TERRAZA LOUNGE.png" distance3D="4062.63" pan="-111.23" tilt="5.78" title="" customimageheight="626" description="Gracias a nuestras zonas comunes revolucionamos este concepto y nos diferenciamos por dotarlas de gran protagonimso en nuestras residenciales." skinid="ht_info" url="" customimagewidth="854" id="Point02" use3D="1" fov="12"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendcolor="0x000000" zoomin="6" zoomoutpause="0" zoomspeed="2" zoomout="2" type="crossdissolve" blendtime="1" zoomfov="25"/>
+    <autorotate enabled="1" delay="5.00" noderandom="1" nodefilter="" startloaded="0" nodedelay="0.00" returntohorizon="0.000" speed="0.050" useanimation="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1500" leveltilesize="510" overlap="1" levelbias="0.400" levelingpitch="0" width="1500" levelbiashidpi="1.000">
+      <level height="1500" width="1500" preload="0" predecode="0"/>
+      <level height="750" width="750" preload="0" predecode="0"/>
+      <level height="375" width="375" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fovfisheye="360" fov="60" fovstereographic="270"/>
+    </view>
+    <userdata comment="" nodeid="node5" latitude="" title="" tags="elementos" heading="0" author="" datetime="" description="" source="" customnodeid="" info="" copyright="" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" borderradius="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1" textalpha="1" bordercolor="0x000000" width="180" border="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot target="-91.3/-2.9/60.0" customimage="media/hospot 2.png" distance3D="165.736" pan="-46.42" tilt="-4.42" title="TERRAZA LOUNGE" customimageheight="29" description="" skinid="ht_node" url="{node6}" customimagewidth="29" id="Point01" use3D="0" fov="10"/>
+      <hotspot target="17.6/-2.0/60.0" customimage="media/hospot 2.png" distance3D="165.736" pan="-283.42" tilt="0.15" title="GIMNASIO" customimageheight="29" description="" skinid="ht_node" url="{node7}" customimagewidth="29" id="Point01" use3D="0" fov="10"/>
+      <hotspot target="" customimage="media/BANDERA TERRAZA LOUNGE.png" distance3D="4062.63" pan="-46.29" tilt="1.17" title="" customimageheight="626" description="Gracias a nuestras zonas comunes revolucionamos este concepto y nos diferenciamos por dotarlas de gran protagonimso en nuestras residenciales." skinid="ht_info" url="" customimagewidth="854" id="Point02" use3D="1" fov="12"/>
+      <hotspot target="" customimage="media/BANDERA GIMNASIO.png" distance3D="4062.63" pan="-283.21" tilt="6" title="" customimageheight="626" description="Gracias a nuestras zonas comunes revolucionamos este concepto y nos diferenciamos por dotarlas de gran protagonimso en nuestras residenciales." skinid="ht_info" url="" customimagewidth="854" id="Point02" use3D="1" fov="12"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendcolor="0x000000" zoomin="6" zoomoutpause="0" zoomspeed="2" zoomout="2" type="crossdissolve" blendtime="1" zoomfov="25"/>
+    <autorotate enabled="1" delay="5.00" noderandom="1" nodefilter="" startloaded="0" nodedelay="0.00" returntohorizon="0.000" speed="0.050" useanimation="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1500" leveltilesize="510" overlap="1" levelbias="0.400" levelingpitch="0" width="1500" levelbiashidpi="1.000">
+      <level height="1500" width="1500" preload="0" predecode="0"/>
+      <level height="750" width="750" preload="0" predecode="0"/>
+      <level height="375" width="375" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fovfisheye="360" fov="60" fovstereographic="270"/>
+    </view>
+    <userdata comment="" nodeid="node6" latitude="" title="" tags="elementos" heading="0" author="" datetime="" description="" source="" customnodeid="" info="" copyright="" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" borderradius="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1" textalpha="1" bordercolor="0x000000" width="180" border="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot target="-19.4/0.8/60.0" customimage="media/hospot 2.png" distance3D="165.736" pan="-276.28" tilt="-2.12" title="TERRAZA GIMNASIO" customimageheight="29" description="" skinid="ht_node" url="{node5}" customimagewidth="29" id="Point01" use3D="0" fov="10"/>
+      <hotspot target="-141.1/-5.3/60.0" customimage="media/hospot 2.png" distance3D="165.736" pan="-92.81" tilt="-4.48" title="TERRAZA LOUNGE" customimageheight="29" description="" skinid="ht_node" url="{node4}" customimagewidth="29" id="Point01" use3D="0" fov="10"/>
+      <hotspot target="" customimage="media/BANDERA TERRAZA LOUNGE.png" distance3D="4062.63" pan="-92.66" tilt="1.87" title="" customimageheight="626" description="Gracias a nuestras zonas comunes revolucionamos este concepto y nos diferenciamos por dotarlas de gran protagonimso en nuestras residenciales." skinid="ht_info" url="" customimagewidth="854" id="Point02" use3D="1" fov="12"/>
+      <hotspot target="" customimage="media/BANDERA TERRAZA GIMNASIO.png" distance3D="4062.63" pan="-276.06" tilt="3.74" title="" customimageheight="626" description="Gracias a nuestras zonas comunes revolucionamos este concepto y nos diferenciamos por dotarlas de gran protagonimso en nuestras residenciales." skinid="ht_info" url="" customimagewidth="854" id="Point02" use3D="1" fov="12"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendcolor="0x000000" zoomin="6" zoomoutpause="0" zoomspeed="2" zoomout="2" type="crossdissolve" blendtime="1" zoomfov="25"/>
+    <autorotate enabled="1" delay="5.00" noderandom="1" nodefilter="" startloaded="0" nodedelay="0.00" returntohorizon="0.000" speed="0.050" useanimation="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1500" leveltilesize="510" overlap="1" levelbias="0.400" levelingpitch="0" width="1500" levelbiashidpi="1.000">
+      <level height="1500" width="1500" preload="0" predecode="0"/>
+      <level height="750" width="750" preload="0" predecode="0"/>
+      <level height="375" width="375" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fovfisheye="360" fov="60" fovstereographic="270"/>
+    </view>
+    <userdata comment="" nodeid="node7" latitude="" title="" tags="elementos" heading="0" author="" datetime="" description="" source="" customnodeid="" info="" copyright="" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" borderradius="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" textcolor="0x000000" background="1" textalpha="1" bordercolor="0x000000" width="180" border="1"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot target="-26.1/-3.3/60.0" customimage="media/hospot 2.png" distance3D="165.736" pan="-51.35" tilt="-2.8" title="TERRAZA 2" customimageheight="29" description="" skinid="ht_node" url="{node5}" customimagewidth="29" id="Point01" use3D="0" fov="10"/>
+      <hotspot target="" customimage="media/BANDERA TERRAZA GIMNASIO.png" distance3D="4062.63" pan="-51.12" tilt="3.96" title="" customimageheight="626" description="Gracias a nuestras zonas comunes revolucionamos este concepto y nos diferenciamos por dotarlas de gran protagonimso en nuestras residenciales." skinid="ht_info" url="" customimagewidth="854" id="Point02" use3D="1" fov="12"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" enabled="1" blendcolor="0x000000" zoomin="6" zoomoutpause="0" zoomspeed="2" zoomout="2" type="crossdissolve" blendtime="1" zoomfov="25"/>
+    <autorotate enabled="1" delay="5.00" noderandom="1" nodefilter="" startloaded="0" nodedelay="0.00" returntohorizon="0.000" speed="0.050" useanimation="0"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" speedwheel="1" hideabout="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" invertcontrol="1" sensitivity="8" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" nodeid="master" latitude="" title="" tags="" heading="0" author="" datetime="" description="" source="" customnodeid="" info="" copyright="" longitude=""/>
+  </masternode>
+</tour>
